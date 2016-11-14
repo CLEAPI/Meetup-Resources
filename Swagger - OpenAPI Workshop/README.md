@@ -2,11 +2,13 @@
 
 ## Tutorial
 
-Use the Swagger Editor: 
+Use the Swagger Editor: http://editor.swagger.io/ 
 
 We (roughly) follow this tutorial: https://apihandyman.io/writing-openapi-swagger-specification-tutorial-part-1-introduction/
 
 ## Optional Tools
 
-Local Swagger Editor: https://github.com/swagger-api/swagger-editor#running-locally
-Swagger-codegen: https://github.com/swagger-api/swagger-codegen#prerequisites
+- Swagger Editor (local): http://swagger.io/swagger-editor/
+- Swagger UI: http://swagger.io/swagger-ui/
+- Swagger-codegen: http://swagger.io/swagger-codegen/
+- Swagger-server (mocks): https://www.npmjs.com/package/swagger-server
